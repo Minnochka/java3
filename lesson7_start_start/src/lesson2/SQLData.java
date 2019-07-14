@@ -101,11 +101,42 @@ public class SQLData {
 
     public void sqlSelect(){
         try {
+            int status = 0;
             ResultSet rs = stmt.executeQuery("select e.id, e.name, e.surname, e.middle_name, e.birthday, p.position_name from employee e inner join position p on e.position_id = p.id ;");
             while(rs.next()){
+                status = 1;
                 System.out.println(rs.getInt("id") + ": " + rs.getString("name") + " " + rs.getString("middle_name") + " " + rs.getString("surname") + ", дата рождения - " + rs.getString("birthday") + ", должность - " + rs.getString("position_name"));
             }
+            if (status == 0){
+                System.out.println("Данных нет");
+            }
         } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void sqlCreate(){
+        try {
+            stmt.executeUpdate("CREATE TABLE IF NOT EXISTS employee (\n" +
+                    "    id          INTEGER       PRIMARY KEY,\n" +
+                    "    name        VARCHAR (50)  NOT NULL,\n" +
+                    "    surname     VARCHAR (100) NOT NULL,\n" +
+                    "    middle_name VARCHAR (100),\n" +
+                    "    birthday    DATE          NOT NULL,\n" +
+                    "    position_id INTEGER       REFERENCES position (id) ON DELETE SET NULL\n" +
+                    "                                                       ON UPDATE CASCADE\n" +
+                    ");\n");
+        }
+        catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void sqlDrop(){
+        try {
+            stmt.executeUpdate("DROP TABLE IF EXISTS employee;");
+        }
+        catch (SQLException e) {
             e.printStackTrace();
         }
     }

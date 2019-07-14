@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e97a98ef-da27-45e5-acf5-acf226b3c408" name="Default" comment="" />
+    <list default="true" id="e97a98ef-da27-45e5-acf5-acf226b3c408" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2DB.db" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2DB.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ClientMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ClientMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ClientMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ServerMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ServerMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ServerMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Test/AudioPlayerExample1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Test/AudioPlayerExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Test/MainDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/client/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/client/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/client/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/client/client.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/server/AuthService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/server/ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/server/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2_easy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2_easy/SQLData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/SQLData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/SQLData.java" afterDir="false" />
+    </list>
     <ignored path="lesson7_start.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lesson2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="207">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -46,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson2/SQLData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-847">
-              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="110" column="36" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,7 +172,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563134954394" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563136841919" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$USER_HOME$/jdbc/sqlite-jdbc-3.19.3.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -172,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -584,9 +608,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MainDB" />
         <item itemvalue="Application.AudioPlayerExample1" />
       </list>
@@ -626,7 +650,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1860817" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1860817" />
       <window_info id="Structure" order="1" weight="0.25037822" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -635,7 +659,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32980973" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39285713" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39285713" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3255814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -643,7 +667,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3282313" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -771,8 +795,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson2/SQLData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-847">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        <state relative-caret-position="204">
+          <caret line="110" column="36" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -781,8 +805,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="207">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>
