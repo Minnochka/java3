@@ -3,28 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e97a98ef-da27-45e5-acf5-acf226b3c408" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2DB.db" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2DB.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ClientMain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ClientMain$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ClientMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ServerMain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ServerMain$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Lesson7/ServerMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Test/AudioPlayerExample1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Test/AudioPlayerExample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/Test/MainDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/client/Controller$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/client/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/client/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/client/client.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/server/AuthService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/server/ClientHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/server/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2/server/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2_easy/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson7_start/lesson2_easy/SQLData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/SQLData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/SQLData.java" afterDir="false" />
     </list>
     <ignored path="lesson7_start.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lesson2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="353">
+              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -70,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson2/SQLData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="1836">
               <caret line="110" column="36" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -139,8 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,13 +133,12 @@
             </path>
             <path>
               <item name="lesson7_start_start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lesson7_start_start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="lesson7_start_start" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sqlite-jdbc-3.19.3" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -172,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563136841919" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563308196271" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$USER_HOME$/jdbc/sqlite-jdbc-3.19.3.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -196,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.AudioPlayerExample1">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -508,20 +485,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.Main" />
-      <module name="lesson7_start" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson2.Test.MainDB" />
       <module name="lesson7_start" />
@@ -529,6 +492,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson2.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.Main" />
+      <module name="lesson7_start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -603,12 +580,10 @@
       <item itemvalue="Application.AudioPlayerExample1" />
       <item itemvalue="Application.MainDB" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.MainDB" />
@@ -648,9 +623,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1860817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18910742" />
       <window_info id="Structure" order="1" weight="0.25037822" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -659,7 +633,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32980973" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39285713" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39285713" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3255814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -668,7 +642,6 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3282313" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -678,6 +651,7 @@
       <window_info anchor="right" id="Database" order="6" visible="true" weight="0.12797076" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -697,116 +671,38 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Throwable.java" />
-    <entry file="file://$PROJECT_DIR$/src/lesson2/Lesson7/ServerMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson2/client/client.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="661">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson2/Lesson7/ServerMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson2/client/client.fxml" />
     <entry file="file://$PROJECT_DIR$/src/Test/Test.java" />
     <entry file="jar://E:/jdbc/sqlite-jdbc-3.21.0.1.jar!/org/sqlite/JDBC.class" />
     <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Class.java" />
     <entry file="file://$PROJECT_DIR$/src/Test/DemoClass.java" />
     <entry file="file://$PROJECT_DIR$/src/Test/MyException.java" />
     <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/sql/Connection.java" />
-    <entry file="file://$PROJECT_DIR$/src/lesson2/server/Server.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson2/server/Server.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson2/client/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson2/Lesson7/ClientMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson2/Test/MainDB.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson2/Test/AudioPlayerExample1.java" />
+    <entry file="file://$PROJECT_DIR$/lesson2DB" />
+    <entry file="file://$PROJECT_DIR$/src/lesson2/server/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson2/client/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson2/server/AuthService.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson2/server/ClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson2/client/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson2/Lesson7/ClientMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson2/Test/MainDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="70" column="73" selection-start-line="70" selection-start-column="73" selection-end-line="70" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson2/Test/AudioPlayerExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2DB">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson2/server/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson2/client/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson2/server/AuthService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson2/server/ClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="353">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson2/SQLData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="1836">
           <caret line="110" column="36" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>
