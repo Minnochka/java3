@@ -1,7 +1,7 @@
 public class Main {
 
     private static final Object lock = new Object();
-    private static volatile char letter = 'C';
+    private static  char letter = 'C';
 
     public static void main(String[] args){
 
