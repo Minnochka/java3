@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da31c319-15e7-4922-872d-e117b098e527" name="Default" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/copyright/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/encodings.xml" beforeDir="false" />
@@ -20,6 +21,106 @@
       <change beforePath="$PROJECT_DIR$/../lesson7_start_start/src/lesson2/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson7_start_start/src/lesson2/SQLData.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson7_start_start/userTestDB.db" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/BoxInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/BoxUltimate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/DZ/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/DZ/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/DZ/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/DZ/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/DZ/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/LamApp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/LamApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Lesson_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/StatDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Stats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/TwoGen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/DZ/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/MainDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/PrintFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Test10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Test11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Test12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Test5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Test6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_2/Test8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/DZ/DZ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/DopDZ/FileClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/DopDZ/FileServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/DopDZ/Studens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/MainStudents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/io/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/PrintFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/StartNIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_3/nio/Test9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/ATM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/CounterMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/CounterMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/CounterMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/DeadLockMain$DeadThreadOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/DeadLockMain$DeadThreadTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/DeadLockMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Excel/ExcelReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Excel/SimpleExcelWriterExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Game$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Game$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Game$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Main123.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/MainATM$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/MainATM$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/MainATM$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/MainATM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/MainShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/MainT$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/MainT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/MyRunnableClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/StartThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/StartThread$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/StartThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/Test10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/TestSyn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/ThreadTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/ThreadTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/ThreadTest$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/ThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/VolatileTest$ChangeListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/VolatileTest$ChangeMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_4/VolatileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7_start_start/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/LetterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Main$Letter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Main.class" beforeDir="false" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -330,7 +431,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563886113982" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../hw2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
@@ -499,9 +600,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+<<<<<<< Updated upstream
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28668684" />
+=======
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28668684" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -884,6 +990,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_4/VolatileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_4/ThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -895,6 +1008,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -902,6 +1016,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_4/Excel/ExcelReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -916,10 +1032,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_4/VolatileTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="153">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>

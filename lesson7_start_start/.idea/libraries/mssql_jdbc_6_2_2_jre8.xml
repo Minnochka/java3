@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-6.2.2.jre8">
+    <CLASSES>
+      <root url="jar://E:/jdbc/mssql-jdbc-6.2.2.jre8.jar!/" />
+      <root url="jar://$USER_HOME$/jdbc/sqlite-jdbc-3.19.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
