@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da31c319-15e7-4922-872d-e117b098e527" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/libraries/mssql_jdbc_6_2_2_jre8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/libraries/sqlite_jdbc_3_19_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/lesson2DB.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/lesson7_start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/out/production/lesson7_start/META-INF/lesson7_start.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/out/production/lesson7_start/lesson2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/out/production/lesson7_start/lesson2/SQLData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/sqlite-jdbc-3.21.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/src/lesson2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/src/lesson2/SQLData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson7_start_start/userTestDB.db" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_4/VolatileTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -88,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            <state relative-caret-position="153">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -201,7 +217,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1386" />
@@ -214,7 +230,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -308,6 +323,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -482,10 +498,10 @@
     <option name="totallyTimeSpent" value="48412000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27685326" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28668684" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -881,8 +897,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        <state relative-caret-position="153">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>

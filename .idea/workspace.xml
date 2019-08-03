@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df5a69f8-1bd5-4c36-b497-c3e1f28b98d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01072019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01072019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/.idea/libraries/mssql_jdbc_6_2_2_jre8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/.idea/libraries/sqlite_jdbc_3_19_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/lesson2DB.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/lesson7_start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/out/production/lesson7_start/META-INF/lesson7_start.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/out/production/lesson7_start/lesson2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/out/production/lesson7_start/lesson2/SQLData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/sqlite-jdbc-3.21.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/src/lesson2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/src/lesson2/SQLData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_start_start/userTestDB.db" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +33,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -36,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -86,8 +102,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -146,7 +162,7 @@
     <frame x="-8" y="-8" width="1386" height="788" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.25339368" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.26093516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
