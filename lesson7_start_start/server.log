@@ -1,0 +1,20 @@
+авг 03, 2019 11:54:18 AM gb.server.Server <init>
+INFO: Сервер запущен. Ожидаем клиентов...
+авг 03, 2019 11:58:09 AM gb.server.Server <init>
+INFO: Сервер запущен. Ожидаем клиентов...
+авг 03, 2019 12:29:35 PM gb.server.Server <init>
+INFO: Сервер запущен. Ожидаем клиентов...
+авг 03, 2019 12:31:08 PM gb.server.Server <init>
+INFO: Клиент подключился
+авг 03, 2019 12:32:11 PM gb.server.Server <init>
+INFO: Клиент подключился
+авг 03, 2019 12:32:11 PM gb.server.Server isNickBusy
+INFO: Имя клиента свободно
+авг 03, 2019 12:32:11 PM gb.server.Server broadcastClientList
+INFO: Список пользователей - /clientList nick1 
+авг 03, 2019 12:34:53 PM gb.server.Server broadcastMsg
+INFO: Отправка сообщения пользователю nick1: nick1 sbfsbfb
+авг 03, 2019 12:34:57 PM gb.server.Server broadcastMsg
+INFO: Отправка сообщения пользователю nick1: nick1 jsngjrgh
+авг 03, 2019 12:34:59 PM gb.server.Server broadcastMsg
+INFO: Отправка сообщения пользователю nick1: nick1 dhsgbdhb
